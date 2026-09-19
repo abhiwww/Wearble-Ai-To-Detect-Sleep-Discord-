@@ -1,0 +1,17 @@
+{
+  "bpm": 0.0,
+  "spo2": 0.0,
+  "accel_x": 0.642,
+  "accel_y": 0.019,
+  "accel_z": 8.619,
+  "gyro_x": -0.025,
+  "gyro_y": -0.008,
+  "gyro_z": -0.0157,
+  "accel_mag": 8.642898009348485,
+  "sleep_state": "Awake",
+  "sleep_label": 0,
+  "confidence": 0.57,
+  "alert_level": 0,
+  "timestamp": 1787211451.933621,
+  "readings_received": 19
+}
